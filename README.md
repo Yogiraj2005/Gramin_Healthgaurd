@@ -65,3 +65,20 @@ HealthGuard is a comprehensive telemedicine and rural healthcare monitoring syst
 -   **AI Triage**: Log in as an ASHA worker, select a patient, and use "Add Report" to test the AI symptom analysis.
 -   **SOS Alert**: Trigger an SOS from the ASHA dashboard to see the emergency workflow in action.
 -   **Prescriptions**: Doctors can prescribe meds, which appear instantly in the Pharmacy dashboard for dispensing.
+
+## Authors
+- ## Authors
+- Yogiraj Shinde ([@Yogiraj2005](https://github.com/Yogiraj2005))
+- Nipun Bhadane ([@nipunbhadane123](https://github.com/nipunbhadane123))
+
+## Connect With Us
+Feel free to reach out for collaboration or questions!
+
+- **Yogiraj Shinde**
+  - Email: [yogirajshinde357@gmail.com](mailto:yogirajshinde357@gmail.com)
+  - LinkedIn: [View Profile](https://www.linkedin.com/in/yogiraj-shinde-155354295/)
+
+- **Nipun Bhadane**
+  - Email: [nipunbhadane3@gmail.com](mailto:nipunbhadane3@gmail.com)
+  - LinkedIn: [View Profile](https://www.linkedin.com/in/nipun-bhadane-4370802b6/)
+
