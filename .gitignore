@@ -1,0 +1,51 @@
+Byte-compiled / optimized / DLL files
+pycache/
+*.pyc
+*.$py.class
+
+C extensions
+*.so
+
+Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+Python virtualenv
+venv/
+env/
+.venv/
+
+Environment variables
+IMPORTANT: Never commit your .env file
+.env
+
+Databases
+IMPORTANT: Never commit your database file, especially with patient data.
+health.db
+
+IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+ngrok executable if downloaded in the project folder
+ngrok
+ngrok.exe
+health.db
